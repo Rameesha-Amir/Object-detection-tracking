@@ -1,4 +1,4 @@
-Real-Time Object Detection and Tracking
+ # Object Detection and Tracking
 
 A real-time object detection and tracking system using Python, OpenCV, YOLOv8, and Deep SORT. Detects objects from a webcam or video and assigns each one a unique tracking ID.
 
@@ -20,6 +20,3 @@ Features
 Real-time detection using YOLOv8
 Object tracking with unique IDs using Deep SORT
 Works with webcam or video file
-Internship Task
-
-This project was built as part of my internship task at CodeAlpha.
